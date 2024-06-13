@@ -25,8 +25,7 @@
   <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" width="40" height="40" style="margin-right: 15px;"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" style="margin-right: 15px;"/>
+
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="margin-right: 15px;"/>
@@ -38,7 +37,6 @@
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" style="margin-right: 15px;"/>
   </a>
-  <span style="font-size: 20px;">Nuxt.js</span>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnisRasoul)](https://github.com/anuraghazra/github-readme-stats)
